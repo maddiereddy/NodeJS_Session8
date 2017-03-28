@@ -1,0 +1,1 @@
+this is a test file to check if the program will convert all the text in this file to uppercase. if you read all this in uppercase, the program has worked!!
